@@ -33,9 +33,6 @@ class ViewController: UIViewController {
         
         button.centerXAnchor.constraint(equalTo: view.centerXAnchor).isActive = true
         button.centerYAnchor.constraint(equalTo: view.centerYAnchor).isActive = true
-        
     }
-
-
 }
 
